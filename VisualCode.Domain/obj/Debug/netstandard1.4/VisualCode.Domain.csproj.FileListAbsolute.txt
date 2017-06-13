@@ -1,0 +1,8 @@
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\bin\Debug\netstandard1.4\VisualCode.Domain.deps.json
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\bin\Debug\netstandard1.4\VisualCode.Domain.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\bin\Debug\netstandard1.4\VisualCode.Domain.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\bin\Debug\netstandard1.4\VisualCode.Shared.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\bin\Debug\netstandard1.4\VisualCode.Shared.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\obj\Debug\netstandard1.4\VisualCode.Domain.AssemblyInfo.cs
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\obj\Debug\netstandard1.4\VisualCode.Domain.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Domain\obj\Debug\netstandard1.4\VisualCode.Domain.pdb

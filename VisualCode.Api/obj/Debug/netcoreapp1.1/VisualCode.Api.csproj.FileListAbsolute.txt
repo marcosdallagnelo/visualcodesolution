@@ -1,0 +1,14 @@
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Api.deps.json
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Api.runtimeconfig.json
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Api.runtimeconfig.dev.json
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Api.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Api.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Domain.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Infra.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Shared.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Domain.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Shared.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\bin\Debug\netcoreapp1.1\VisualCode.Infra.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\obj\Debug\netcoreapp1.1\VisualCode.Api.AssemblyInfo.cs
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\obj\Debug\netcoreapp1.1\VisualCode.Api.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Api\obj\Debug\netcoreapp1.1\VisualCode.Api.pdb

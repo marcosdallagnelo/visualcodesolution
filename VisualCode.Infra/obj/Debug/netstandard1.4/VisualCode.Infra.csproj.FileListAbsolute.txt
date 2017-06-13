@@ -1,0 +1,10 @@
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Infra.deps.json
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Infra.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Infra.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Domain.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Shared.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Shared.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\bin\Debug\netstandard1.4\VisualCode.Domain.pdb
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\obj\Debug\netstandard1.4\VisualCode.Infra.AssemblyInfo.cs
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\obj\Debug\netstandard1.4\VisualCode.Infra.dll
+D:\Projetos\Exemplos\VisualCodeSolution\VisualCode.Infra\obj\Debug\netstandard1.4\VisualCode.Infra.pdb
